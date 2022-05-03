@@ -5,4 +5,4 @@ A = int(input())
 B = int(input())
 X = A+B
 
-print(str("X = ") + str(X))
+print(str("X == ") + str(X))
