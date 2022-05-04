@@ -3,7 +3,7 @@
 #Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando por π.
 
 import math
-#n = 3.14159
+#n = 3.141592
 raio = float(input())
 area = math.pi*(raio**2)
 

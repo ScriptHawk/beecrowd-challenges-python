@@ -6,4 +6,4 @@ B = int(input())
 
 soma = A+B
 
-print(str("SOMA =") + str(soma))
+print(str("SOMA = ") + str(soma))
