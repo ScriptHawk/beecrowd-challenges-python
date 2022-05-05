@@ -8,4 +8,4 @@ multiplicador = int(input())
 
 produto = multiplicando*multiplicador
 
-print(str("PROD = ") + str(produto))
+print(str("PROD= ") + str(produto))

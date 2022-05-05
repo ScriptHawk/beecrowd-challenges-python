@@ -10,4 +10,4 @@ B = (B*7.5)
 
 media = (A+B)/11
 
-print('MEDIA = %.5f'%media)
+print('MEDIA= %.5f'%media)
