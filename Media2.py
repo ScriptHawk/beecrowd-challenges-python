@@ -12,4 +12,4 @@ C = (C*5)
 
 media = (A+B+C)/10
 
-print('MEDIA = %.1f'%media)
+print('MEDIA= %.1f'%media)
