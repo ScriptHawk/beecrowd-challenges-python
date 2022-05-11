@@ -8,4 +8,4 @@ D = int(input())
 
 diferenca = (A*B)-(C*D)
 
-print(str("DIFERENCA = ") + str(diferenca))
+print(str("DIFERENCA= ") + str(diferenca))
