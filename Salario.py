@@ -7,5 +7,5 @@ valorHora = float(input())
 
 salarioFinal = horasTrabalhadas*valorHora
 
-print(str("NUMBER = ") + str(numeroFuncionario))
+print(str("NUMBER= ") + str(numeroFuncionario))
 print('SALARY = U$ %.2f'%salarioFinal)
