@@ -8,4 +8,4 @@ totalVendas = float(input())
 totalVendas = totalVendas*0.15
 salarioFixo = totalVendas+salarioFixo
 
-print('TOTAL = R$ %.2f'%salarioFixo)
+print('TOTAL= R$ %.2f'%salarioFixo)
