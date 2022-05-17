@@ -20,4 +20,4 @@ peca2 = (numeroPecas2*valorUnitario2)
 total = peca1+peca2
 
 
-print('VALOR A PAGAR: R$ %.2f'%total)
+print('VALOR A PAGAR:R$ %.2f'%total)
