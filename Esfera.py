@@ -7,4 +7,4 @@ raio = float(input())
 
 volume = (4/3)*math.pi*(raio**3)
 
-print('VOLUME= %.3f'%volume)
+print('VOLUME = %.3f'%volume)

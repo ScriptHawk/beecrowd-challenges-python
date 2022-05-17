@@ -27,7 +27,7 @@ areaquadrado = B**2
 #Área Retângulo
 arearetangulo = A*B
 
-print('TRIANGULO : %.3f'%areatriangulo)
+print('TRIANGULO: %.3f'%areatriangulo)
 print('CIRCULO: %.3f'%areacirculo)
 print('TRAPEZIO: %.3f'%areatrapezio)
 print('QUADRADO: %.3f'%areaquadrado)
