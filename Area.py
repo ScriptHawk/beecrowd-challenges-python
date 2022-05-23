@@ -13,22 +13,22 @@ C = float(C)
 pi = 3.14159
 
 #Área Triângulo Retângulo
-areatriangulo = (A*C)/2
+areaTriangulo = (A*C)/2
 
 #Área Circulo
-areacirculo = pi*(C**2)
+areaCirculo = pi*(C**2)
 
 #Área Trapézio
-areatrapezio = ((A+B)/2)*C
+areaTrapezio = ((A+B)/2)*C
 
 #Área Quadrado
-areaquadrado = B**2
+areaQuadrado = B**2
 
 #Área Retângulo
-arearetangulo = A*B
+areaRetangulo = A*B
 
-print('TRIANGULO: %.3f'%areatriangulo)
-print('CIRCULO: %.3f'%areacirculo)
-print('TRAPEZIO: %.3f'%areatrapezio)
-print('QUADRADO: %.3f'%areaquadrado)
-print('RETANGULO: %.3f'%arearetangulo)
+print('TRIANGULO: %.3f'%areaTriangulo)
+print('CIRCULO: %.3f'%areaCirculo)
+print('TRAPEZIO: %.3f'%areaTrapezio)
+print('QUADRADO: %.3f'%areaQuadrado)
+print('RETANGULO: %.3f'%areaRetangulo)
