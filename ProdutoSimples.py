@@ -5,7 +5,6 @@
 multiplicando = int(input())
 multiplicador = int(input())
 
-
 produto = multiplicando*multiplicador
 
 print(str("PROD = ") + str(produto))

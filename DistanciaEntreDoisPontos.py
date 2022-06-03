@@ -10,7 +10,6 @@ x2, y2 = input().split(" ")
 x2 = float(x2)
 y2 = float(y2)
 
-
 distancia = (x2-x1)**2 + (y2-y1)**2
 distancia = distancia**0.5
 
