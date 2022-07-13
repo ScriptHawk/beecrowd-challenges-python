@@ -27,12 +27,12 @@ elif media < 5:
 elif media >=5 and media <= 6.9:
     print("Media: %.1f"%media)
     print('Aluno em exame.')
-    notaexame = float(input())
-    print('Nota do exame:',notaexame)
-    mediafinal = (media+notaexame)/2 
-    if mediafinal >=5:
+    notaExame = float(input())
+    print('Nota do exame:',notaExame)
+    mediaFinal = (media+notaExame)/2 
+    if mediaFinal >=5:
      print('Aluno aprovado.')
-     print('Media final: %.1f'%mediafinal)
-    elif mediafinal <= 4.9:
+     print('Media final: %.1f'%mediaFinal)
+    elif mediaFinal <= 4.9:
      print('Aluno reprovado.')
-     print('Media final: %.1f'%mediafinal)   
+     print('Media final: %.1f'%mediaFinal)   
